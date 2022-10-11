@@ -60,7 +60,7 @@ def start(message):
         bot.send_message(message.chat.id, f'''
     𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗯𝗼𝘁
         𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝘂𝘀𝗲𝗿 𝗰𝗵𝗲𝗰𝗸𝗲𝗿
-        𝘽𝙮 : @dar4k
+        𝘽𝙮 : @E1GGG تمت سرقه بواسطه مصطفى
         ''', reply_markup=mas)
     elif message.from_user.id == dev:
         bot.send_message(message.chat.id, '''
@@ -87,7 +87,7 @@ def start(message):
         bot.send_message(message.chat.id, f'''
     𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗯𝗼𝘁
         𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝘂𝘀𝗲𝗿 𝗰𝗵𝗲𝗰𝗸𝗲𝗿
-        𝘽𝙮 : @dar4k
+        𝘽𝙮 : @E1GGG 
         ''', reply_markup=mas)
     else:
         bot.send_message(
@@ -107,7 +107,7 @@ def add(message):
             bot.send_message(
                 message.chat.id, "تم اضافة العضو بنجاح")
     else:
-        bot.send_message(message.chat.id, "ولك دي انت مو المطور")
+        bot.send_message(message.chat.id, "ولك  انت مو المطور")
 
 
 @bot.message_handler(commands=['users'])
@@ -118,7 +118,7 @@ def users(message):
         bot.send_message(
             message.chat.id, f"الاعضاء : \n {users}")
     else:
-        bot.send_message(message.chat.id, "ولك دي انت مو المطور")
+        bot.send_message(message.chat.id, "ولك  انت مو المطور")
 
 
 @bot.message_handler(commands=['remove'])
@@ -137,7 +137,7 @@ def remove(message):
             bot.send_message(
                 message.chat.id, "خطأ")
     else:
-        bot.send_message(message.chat.id, "ولك دي انت مو المطور")
+        bot.send_message(message.chat.id, "ولك  انت مو المطور")
 
 
 @bot.message_handler(commands=['id'])
@@ -173,7 +173,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username}
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @E1GGG
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -187,7 +187,7 @@ def main(call):
                     f'{username}', callback_data="1x")
                 R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
                 M = types.InlineKeyboardButton(
-                    'المطور', url='https://t.me/dar4k')
+                    'المطور', url='https://t.me/v878v')
                 mas.add(A, E, B, R, M)
                 bot.edit_message_text(
                     chat_id=call.message.chat.id, message_id=call.message.message_id, text="ok start", reply_markup=mas)
@@ -218,7 +218,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username}
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @E1GGG
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -232,7 +232,7 @@ def main(call):
                     f'{username}', callback_data="1x")
                 R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
                 M = types.InlineKeyboardButton(
-                    'المطور', url='https://t.me/dar4k')
+                    'المطور', url='https://t.me/v878v')
                 mas.add(A, E, B, R, M)
                 bot.edit_message_text(
                     chat_id=call.message.chat.id, message_id=call.message.message_id, text="ok start", reply_markup=mas)
@@ -264,7 +264,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username}
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @vE1ggg @v878v
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -278,7 +278,7 @@ def main(call):
                     f'{username}', callback_data="1x")
                 R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
                 M = types.InlineKeyboardButton(
-                    'المطور', url='https://t.me/dar4k')
+                    'المطور', url='https://t.me/v878v')
                 mas.add(A, E, B, R, M)
                 bot.edit_message_text(
                     chat_id=call.message.chat.id, message_id=call.message.message_id, text="ok start", reply_markup=mas)
@@ -310,7 +310,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username}
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @v878v
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -324,7 +324,7 @@ def main(call):
                     f'{username}', callback_data="1x")
                 R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
                 M = types.InlineKeyboardButton(
-                    'المطور', url='https://t.me/dar4k')
+                    'المطور', url='https://t.me/v878v')
                 mas.add(A, E, B, R, M)
                 bot.edit_message_text(
                     chat_id=call.message.chat.id, message_id=call.message.message_id, text="ok start", reply_markup=mas)
@@ -356,7 +356,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username} 
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @v878v
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -404,7 +404,7 @@ def main(call):
 	𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 :
 		@{username} 
  Click to copy : `{username}`
- 𝘽𝙔 : @dar4k
+ 𝘽𝙔 : @E1GGG
 				''', parse_mode="markdown")
             else:
                 cp += 1
@@ -418,7 +418,7 @@ def main(call):
                     f'{username}', callback_data="1x")
                 R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
                 M = types.InlineKeyboardButton(
-                    'المطور', url='https://t.me/dar4k')
+                    'المطور', url='https://t.me/v878v')
                 mas.add(A, E, B, R, M)
                 bot.edit_message_text(
                     chat_id=call.message.chat.id, message_id=call.message.message_id, text="ok start", reply_markup=mas)
