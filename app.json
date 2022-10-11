@@ -1,14 +1,14 @@
 {
-    "name": "Telegram cheker by @Dar4k",
+    "name": "Telegram cheker by @E1GGG",
     "description": "",
     "stack": "container",
-    "repository": "https://github.com/perdark/TeleChecker",
+    "repository": "https://github.com/mnxs8/uzer",
     "keywords": [
         "python",
         "checker",
         "telegrambot"
     ],
-    "website": "https://github.com/perdark/TeleChecker",
+    "website": "https://github.com/mnxs8/uzer",
     "env": {
         "ID": {
             "description": "ايدي المطور",
