@@ -53,7 +53,7 @@ def start(message):
         D = types.InlineKeyboardButton(text="BBLLL", callback_data="F4")
         E = types.InlineKeyboardButton(text="B_F_L", callback_data="F5")
         F = types.InlineKeyboardButton(text="BFLLL", callback_data="F6")
-        Dev = types.InlineKeyboardButton('Dev', url='https://t.me/dar4k')
+        Dev = types.InlineKeyboardButton('Dev', url='https://t.me/B_4_M')
 
         mas.add(A, B, C, D, E, F, Dev)
 
